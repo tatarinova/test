@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : listesChainees.c
- Author      : sam
+ Author      : natasha
  Version     :
  Copyright   : Your copyright notice
  Description : Hello World in C, Ansi-style
